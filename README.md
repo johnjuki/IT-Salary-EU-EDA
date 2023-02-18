@@ -1,1 +1,1 @@
-# IT Salary EU 2020 EDA
+Exploratory Data Analysis on the IT Salary Survey for EU region 2020 dataset.
